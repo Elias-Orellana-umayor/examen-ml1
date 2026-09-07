@@ -28,3 +28,10 @@ Tecnologías Utilizadas
 Declaración de Uso de IA
 
 Para la estructuración del flujo de trabajo, depuración de código y apoyo conceptual durante el desarrollo de las diferentes fases de este proyecto, se utilizó GEMENI como asistente de inteligencia artificial.
+
+Enlace de Video Proyecto y Github
+
+Video: https://drive.google.com/file/d/1Ubqzl1tArGK3sW8D_cNmJ11rwKG9mDyz/view?usp=drive_link
+Github: https://github.com/Elias-Orellana-umayor/examen-ml1.git
+Dataset:  https://www.kaggle.com/datasets/kongling/fetch-california-housing
+
